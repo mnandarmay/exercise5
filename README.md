@@ -12,3 +12,9 @@
 10. Of
 11. A
 12. Reader
+
+## Hassan's favorite authors:
+> - Lin Yutang
+> - Li Ao
+> - Dan Brown
+> - J.K.Rowling
